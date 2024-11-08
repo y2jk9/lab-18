@@ -1,2 +1,1 @@
-# lab-18
-Resposta ao Lab 18
+# Resposta ao Lab 18 - Módulo controle de Versão IIEste repositório contém um gráfico de linha mostrando a variação do preço da gasolina
